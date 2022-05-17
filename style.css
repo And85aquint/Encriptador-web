@@ -1,0 +1,130 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background: #E5E5E5;
+}
+
+.container{
+    margin: auto;
+    width: 960px;
+    height: 650px;
+    padding: 5px;
+}
+
+.logo{
+    width: 100%;
+    float: left;
+}
+
+.logoimg{
+    margin-top: 1%;
+    float: inherit;
+    margin-left: 5%;
+}
+
+.left{
+    float: left;
+    width: 70%;
+    height: 70%;
+    border-radius: 24px;
+}
+
+.text-input{
+    float: left;
+    margin-left: 10%;
+    margin-top: 10%;
+    width: 577px;
+    height: 48px;
+    left: 240px;
+    top: 168px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 150%;
+    color: #0A3871;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    background: #E5E5E5;
+}
+
+.right{
+   
+    float: right;
+    width: 30%;
+    height: auto;
+    top: 40px;
+    box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.08);
+    border-radius: 24px;
+    background: #FFFFFF;
+}
+
+.left-button{
+    float: left;
+    width: 70%;
+    height: auto;
+    border-radius: 24px;
+}
+
+#imgDer{
+    margin: top 20%;
+    margin-left: 2%;
+    width: 90%;
+    height: auto;
+}
+
+#texto{
+    margin-left: 7%;
+    margin-right: 5%;
+}
+
+#texto2{
+    float: left;
+    margin-left: 10%;
+    color: #0A3871;
+    width: 80%;
+    height: 60%;
+    border: none;
+    outline: none;
+    font-size: 15px;
+}
+
+#btn-encriptar{
+    padding: 24px;
+    gap: 8px;
+    width: 30%;
+    border-radius: 24px;
+    margin-left: 15%;
+    background: #0A3871;
+}
+#btn-desencriptar{
+    padding: 24px;
+    gap: 8px;
+    width: 30%;
+    border-radius: 24px;
+    margin-left: 10%;
+    background: #D8DFE8;
+}
+
+
+#copiar{
+    margin-left: 33%;
+    margin-top: 90%;
+    padding: 24px;
+    width: 30%;
+    background: #D8DFE8;
+    border-radius: 24px;
+    display: none;
+}
+
+.imagencondicion{
+    margin-left: 1%;
+    float: left;
+    
+}
+
+#condicion{
+    margin-left: 5%;
+
+}
